@@ -1,0 +1,22 @@
+# Visual Studio 生成文件
+.vs/
+*.ipch
+*.suo
+*.user
+*.sln.GhostDoc.xml
+*.sln.DotSettings
+
+# 编译产物
+bin/
+obj/
+x64/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# 日志和缓存
+*.log
+*.cache
+*.tmp
